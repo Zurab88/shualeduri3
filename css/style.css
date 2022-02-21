@@ -62,3 +62,31 @@
 .scroldown {
     padding-left: 5px;
 }
+.roomsContainer {
+    width: 100%;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 16px;
+}
+.visitArrow {
+    background-color: #5863f8;
+    height: 100%;
+}
+.visitArrow a {
+    height: 100%;
+    background-color: #5863f8;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0 23px;
+}
+.textarea {
+    padding: 36px 16px;
+    background-color: #f8f8f8;
+    height: 100%;
+}
+.roomImg {
+    width: 168px;
+    height: 190px;
+    object-fit: cover;
+}
