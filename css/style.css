@@ -166,12 +166,47 @@
     padding-bottom: 40px;
 }
 .footerfirstdiv {
-    width: 260px;
+    width: 250px;
     margin-right: 200px; 
 }
 .footerfirstdiv h3 {
-
+    color: #ffffff;
+    font-size: 24px;
+    font-weight: bold;
+    line-height: 35px;
+    padding-bottom: 20px;
 }
 .footerfirstdiv p {
-    
+    color: #B1B1B1;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 21px;
+    padding-bottom: 20px;
+}
+.headLi {
+    font-size: 18px;
+    font-weight: 800;
+    line-height: 27px;
+    color: #ffffff;
+    padding-bottom: 20px;
+    padding-right: 90px;
+}
+.footerUl a {
+    color: #5863f8;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 21px;
+    padding-bottom: 10px;
+}
+.footerlastdiv a {
+    color: #ffffff;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 21px;
+    padding-left: 15px;
+    padding-bottom: 20px;
+}
+.footerDiv {
+    display: flex;
+    justify-content: space-between;
 }
