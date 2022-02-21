@@ -210,3 +210,15 @@
     display: flex;
     justify-content: space-between;
 }
+.footerP {
+    color: #B1B1B1;
+}
+.lastfootdiv {
+    padding-bottom: 40px;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 21px;
+}
+.lastfootdiv a {
+    color: #5863f8;
+}
