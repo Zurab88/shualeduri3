@@ -66,6 +66,7 @@
     width: 100%;
     display: grid;
     grid-template-columns: 1fr 1fr;
+    grid-template-rows: 190px 190px 190px;
     gap: 16px;
 }
 .visitArrow {
@@ -86,7 +87,15 @@
     height: 100%;
 }
 .roomImg {
-    width: 168px;
-    height: 190px;
+    width: 30%;
+    height: 100%;
     object-fit: cover;
+}
+.checkIn {
+    background-color: #f8f8f8;
+    padding: 53px 0;
+}
+.flex-column {
+    display: flex;
+    flex-direction: column;
 }
