@@ -157,3 +157,21 @@
 .chekIndiv {
     align-self: baseline;
 }
+.footer {
+    background-color: #121212;
+}
+.footerDiv {
+    
+    padding-top: 90px;
+    padding-bottom: 40px;
+}
+.footerfirstdiv {
+    width: 260px;
+    margin-right: 200px; 
+}
+.footerfirstdiv h3 {
+
+}
+.footerfirstdiv p {
+    
+}
